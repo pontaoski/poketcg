@@ -759,7 +759,7 @@ TitleScreenGfx::
 	INCBIN "gfx/titlescreen/title_screen.2bpp"
 
 TitleScreenCGBGfx::
-	dw 212
+	dw 214
 	INCBIN "gfx/titlescreen/title_screen_cgb.2bpp"
 
 OWDrMasonGfx::

@@ -145,7 +145,7 @@ src/gfx/titlescreen/japanese_title_screen_cgb.2bpp: rgbgfx += -x 15
 src/gfx/titlescreen/japanese_title_screen_2.2bpp: rgbgfx += -x 12
 src/gfx/titlescreen/japanese_title_screen_2_cgb.2bpp: rgbgfx += -x 5
 src/gfx/titlescreen/title_screen.2bpp: rgbgfx += -x 4
-src/gfx/titlescreen/title_screen_cgb.2bpp: rgbgfx += -x 12
+src/gfx/titlescreen/title_screen_cgb.2bpp: rgbgfx += -x 10
 
 
 ### Catch-all graphics rules
@@ -169,4 +169,4 @@ src/gfx/titlescreen/title_screen_cgb.2bpp: rgbgfx += -x 12
 
 # remove -m if you don't care for matching
 %.lz: %
-	tools/compressor -m $(tools/compressor) $< $@
+	tools/compressor $(tools/compressor) $< $@

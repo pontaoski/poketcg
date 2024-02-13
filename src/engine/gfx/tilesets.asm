@@ -51,7 +51,7 @@ Tilesets:
 	tileset PlayerGfx,                      36 ; TILESET_PLAYER
 	tileset RonaldGfx,                      36 ; TILESET_RONALD
 	tileset TitleScreenGfx,                220 ; TILESET_TITLE_SCREEN
-	tileset TitleScreenCGBGfx,             212 ; TILESET_TITLE_SCREEN_CGB
+	tileset TitleScreenCGBGfx,             214 ; TILESET_TITLE_SCREEN_CGB
 	tileset CopyrightGfx,                   36 ; TILESET_COPYRIGHT
 	tileset NintendoGfx,                    24 ; TILESET_NINTENDO
 	tileset CompaniesGfx,                   49 ; TILESET_COMPANIES
