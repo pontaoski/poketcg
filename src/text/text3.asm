@@ -943,7 +943,7 @@ UnusedText0322: ; Unused
 	done
 
 OverworldMapMasonLaboratoryText:
-	text "  Mason Laboratory  "
+	text "  tomo sona Mason   "
 	done
 
 OverworldMapIshiharasHouseText:
@@ -995,7 +995,7 @@ OverworldMapMysteryHouseText:
 	done
 
 MasonLaboratoryMapName:
-	text "Mason Laboratory"
+	text "tomo sona Mason"
 	done
 
 MrIshiharasHouseMapName:
@@ -1270,7 +1270,7 @@ Mail15Text:
 	done
 
 NewGameText:
-	text "NEW GAME"
+	text "MUSI SIN"
 	done
 
 CardPopContinueDiaryNewGameText:
@@ -1308,7 +1308,7 @@ ContinueFromDiarySummaryText:
 	done
 
 StartANewGameText:
-	text "Start a New Game."
+	text "ni li sin e musi."
 	line ""
 	done
 
@@ -1358,20 +1358,26 @@ YouCanAccessCardPopOnlyWithGameBoyColorsText:
 	done
 
 IsCrazyAboutPokemonAndPokemonCardCollectingText:
-	text "<RAMNAME> is crazy about Pokémon"
-	line "and Pokémon card collecting!"
-	line "One day,"
-	line "<RAMNAME> heard a rumor:"
-	line " ”The Legendary Pokémon Cards..."
-	line "  the extremely rare and powerful "
-	line "  cards held by Pokémon Trading "
-	line "  Card Game's greatest players... "
-	line "  The Grand Masters are searching"
-	line "  for one to inherit the legend!”"
-	line "Dreaming of inheriting the"
-	line "Legendary Pokémon Cards,"
-	line "<RAMNAME> visits the Pokémon"
-	line "card researcher, Dr. Mason..."
+	text "<RAMNAME> li olin e poki monsuta"
+	line "e musi pi lipu esun ona a!"
+
+	line "suno la,"
+	line "<RAMNAME> li kute e ni:"
+
+	line " ”lipu esun wawa pi poki monsuta"
+	line "  li lon."
+
+	line "  kulupu lili li lawa li jo e"
+	line "  lipu ni. kulupu ni li umesu!"
+
+	line "  ona li alasa e lawa sin. seme o"
+	line "  lawa e lipu lawa ni a?!”"
+
+	line "ona li wile e lipu wawa ni"
+	line "li wile lon lape ona la,"
+
+	line "<RAMNAME> li tawa jan sona"
+	line "pi lipu monsuta, jan Mason..."
 	done
 
 DebugMenuText:
@@ -1621,7 +1627,7 @@ LaboratoryBoosterText:
 	done
 
 DrMasonNPCName:
-	text "Dr. Mason"
+	text "jan Mason"
 	done
 
 RonaldNPCName:
@@ -2005,7 +2011,7 @@ Mail1Part2Text:
 	line "I'll also attach a Booster Pack"
 	line "for you, so check your mail"
 	line "often."
-	line "Mason Laboratory"
+	line "tomo sona Mason"
 	line "      Doctor Mason  ;)"
 	done
 
@@ -2027,7 +2033,7 @@ Mail2Part1Text:
 Mail2Part2Text:
 	text "<RAMNAME>, I know you can do it!"
 	line "Go win the Fighting Medal!"
-	line "Mason Laboratory"
+	line "tomo sona Mason"
 	line "      Doctor Mason ;)"
 	done
 

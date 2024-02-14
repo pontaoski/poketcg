@@ -131,7 +131,7 @@ Text074f:
 	line "It's not quite working right."
 	line "Huh? Oh, this? This is a machine "
 	line "that makes Decks."
-	line "It's much better than Dr. Mason's."
+	line "It's much better than jan Mason's."
 	line "Hmmm... Let's see here..."
 	line "Do you want to Duel against me?"
 	done
@@ -139,7 +139,7 @@ Text074f:
 Text0750:
 	text "Hmmm... The machine..."
 	line "It's not quite working right."
-	line "Unlike Dr. Mason's machine,"
+	line "Unlike jan Mason's machine,"
 	line "this machine is very complicated."
 	line "Hmmm... Let's see here..."
 	line "Do you want to Duel against me?"

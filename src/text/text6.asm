@@ -934,7 +934,7 @@ Text05bc:
 
 ItsTheChallengeMachineText:
 	text "It's the Challenge Machine,"
-	line "created by Dr. Mason!"
+	line "created by jan Mason!"
 	done
 
 Tech1MasterMedalExplanationText:
@@ -1041,12 +1041,12 @@ Tech5DiaryAndEmailExplanationText:
 	line "You can do all sorts of stuff with"
 	line "that PC over there."
 	line "You can read e-mail from "
-	line "Dr. Mason on that PC, too!"
+	line "jan Mason on that PC, too!"
 	done
 
 Tech5ChallengeMachineExplanationText:
 	text "This is the Challenge Machine"
-	line "created by Dr. Mason!"
+	line "created by jan Mason!"
 	line "The Challenge Machine is a "
 	line "Pokémon Card Dueling Machine. "
 	line "The rules of the game are simple: "
@@ -1061,7 +1061,7 @@ Tech5ChallengeMachineExplanationText:
 
 Text05cb:
 	text "OK, let's start using the practice"
-	line "Deck. Listen and follow Dr. Mason's"
+	line "Deck. Listen and follow jan Mason's"
 	line "instructions."
 	done
 

@@ -94,49 +94,55 @@ Text05e2:
 	done
 
 Text05e3:
-	text "Oh! Why the rush, <RAMNAME>?"
-	line "What? "
-	line "You want to learn how to play"
-	line "the Pokémon Trading Card Game?"
-	line "So you, too, finally want to "
-	line "start playing the card game. "
-	line "Well, dueling is more fun than "
-	line "just collecting cards!"
-	line "First, you should try playing "
-	line "with a Practice Deck. "
-	line "Here, I'll give you this Deck. "
-	line "And now you need an opponent..."
-	line "Hey, Sam!"
-	line "Play with him for a while!"
+	text "a! sina tawa wawa tan seme?"
+	line "seme?"
+
+	line "sina wile kama sona musi e"
+	line "musi lipu pi poki monsuta?"
+
+	line "n, sina kin li wile open"
+	line "musi e musi lipu. "
+
+	line "n, utala li musi suli a! ona"
+	line "la alasa lipu li musi ala!"
+
+	line "wan la, o open e musi ni "
+	line "kepeken lipu pi kama sona"
+
+	line "o lukin! mi pana e lipu ni a! "
+	line "ni la sina wile e jan utala..."
+
+	line "jan Sam o!"
+	line "o musi kan ona a!"
 	done
 
 Text05e4:
-	text "Yes, Dr. Mason."
-	line "Hello, <RAMNAME>."
+	text "mi ni, jan Mason."
+	line "toki, <RAMNAME>."
 	done
 
 Text05e5:
-	text "OK!"
-	line "Let's give it a try!"
+	text "oke a!"
+	line "mi o alasa e ni!"
 	done
 
 Text05e6:
-	text "Hey! <RAMNAME>!"
-	line "Hurry and come here!"
+	text "o! <RAMNAME>!"
+	line "o tawa supa ni a!"
 	done
 
 Text05e7:
-	text "First, ask Sam the basics"
-	line "of the game."
+	text "open la, o toki e wile sona"
+	line "musi tawa jan Sam."
 	done
 
 Text05e8:
-	text "OK, <RAMNAME>."
-	line "What do you want to ask about?"
+	text "oke, <RAMNAME>."
+	line "sina wile sona e seme?"
 	done
 
 Text05e9:
-	text "Is that all?"
+	text "sina pini anu seme?"
 	done
 
 Text05ea:
@@ -197,7 +203,7 @@ Text05f0:
 
 Text05f1:
 	text "<RAMNAME> handed his cards to "
-	line "Dr. Mason."
+	line "jan Mason."
 	done
 
 Text05f2:

@@ -691,7 +691,7 @@ ChallengeMachine_Initialize:
 	ret
 
 ChallengeMachine_DrMasonText:
-	text "Dr. Mason", TX_END, TX_END, TX_END, TX_END, TX_END, TX_END
+	text "jan Mason", TX_END, TX_END, TX_END, TX_END, TX_END, TX_END
 
 ; pick the next opponent sequence and clear challenge vars
 ChallengeMachine_PickOpponentSequence:

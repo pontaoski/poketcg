@@ -903,7 +903,7 @@ NowPrintingText:
 	done
 
 DrMasonText:
-	text "Dr. Mason"
+	text "jan Mason"
 	done
 
 DrawSevenCardsPracticeDuelText:
@@ -1528,7 +1528,7 @@ EndText:
 	done
 
 WhatIsYourNameText:
-	text "What is your name?"
+	text "nimi sina li seme?"
 	done
 
 UnusedText021f: ; Unused

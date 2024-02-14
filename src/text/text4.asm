@@ -16,7 +16,7 @@ Mail3Part1Text:
 Mail3Part2Text:
 	text "<RAMNAME>! Go defeat Gene,"
 	line "the Master of the Rock Club!"
-	line "Mason Laboratory"
+	line "tomo sona Mason"
 	line "      Doctor Mason  ;)"
 	done
 
@@ -43,7 +43,7 @@ Mail4Part1Text:
 Mail4Part2Text:
 	text "<RAMNAME>!"
 	line "Keep at it, and don't give up!"
-	line "Mason Laboratory"
+	line "tomo sona Mason"
 	line "      Doctor Mason  ;)"
 	done
 
@@ -72,7 +72,7 @@ Mail5Part1Text:
 Mail5Part2Text:
 	text "Did you find the Pokémon you were"
 	line "looking for in the Booster Pack?"
-	line "Mason Laboratory"
+	line "tomo sona Mason"
 	line "      Doctor Mason  ;)"
 	done
 
@@ -97,8 +97,8 @@ Mail6Part1Text:
 Mail6Part2Text:
 	text "Did it have a lot of Fire Pokémon"
 	line "(the weakness of Grass Pokémon)?"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	done
 
 Mail7Part1Text:
@@ -123,12 +123,12 @@ Mail7Part2Text:
 	text "Fight to the end, "
 	text "<RAMNAME>,"
 	line "and don't give up!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	done
 
 Mail8Part1Text:
-	text "It's me, Dr. Mason."
+	text "It's me, jan Mason."
 	line "How are you doing, <RAMNAME>?"
 	line "I have some information for you"
 	line "about Rick's deck - he's "
@@ -150,12 +150,12 @@ Mail8Part2Text:
 	text "Win all 8 Master Medals, "
 	line ""
 	text "<RAMNAME>!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	done
 
 Mail9Part1Text:
-	text "It's me, Dr. Mason."
+	text "It's me, jan Mason."
 	line "Have you collected many cards?"
 	line "I have some information about"
 	line "Ken's deck - he's the "
@@ -178,12 +178,12 @@ Mail9Part2Text:
 	line "you just received."
 	line "You should be able to come up"
 	line "with a winning strategy!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	done
 
 Mail10Part1Text:
-	text "It's me, Dr. Mason."
+	text "It's me, jan Mason."
 	line "It looks like you've won"
 	line "quite a few medals."
 	line "Want to try building your own "
@@ -194,8 +194,8 @@ Mail10Part1Text:
 	line "your own unique deck!"
 	line "It's not that difficult."
 	line "Give it a try!"
-	line "Mason Laboratory"
-	line "      Dr. Mason ;)"
+	line "tomo sona Mason"
+	line "      jan Mason ;)"
 	line "p.s."
 	line "Here's a deal -  this time,"
 	line "you get 2 Booster Packs!"
@@ -219,8 +219,8 @@ Mail11Part1Text:
 	line "have in your deck."
 	line "You might want to look at the decks"
 	line "in the Deck Machine for hints."
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	line "p.s."
 	line "This time, I'm sending 2 Booster "
 	line "Packs again!"
@@ -228,7 +228,7 @@ Mail11Part1Text:
 
 Mail12Part1Text:
 	text "<RAMNAME>,"
-	line "It's me, Dr. Mason."
+	line "It's me, jan Mason."
 	line "You're finally going to be dueling"
 	line "a Grand Master..."
 	line "Grand Master COURTNEY uses the"
@@ -240,8 +240,8 @@ Mail12Part1Text:
 	line "Other than that, just watch how"
 	line "your opponent plays, and choose"
 	line "your strategy accordingly."
-	line "Mason Laboratory"
-	line "      Dr. Mason ;)"
+	line "tomo sona Mason"
+	line "      jan Mason ;)"
 	line "p.s."
 	line "You're almost there."
 	line "Keep up the good work!"
@@ -249,7 +249,7 @@ Mail12Part1Text:
 
 Mail13Part1Text:
 	text "<RAMNAME>,"
-	line "It's me, Dr. Mason!"
+	line "It's me, jan Mason!"
 	line "Grand Master Steve uses"
 	line "the Legendary ZAPDOS."
 	line "The Legendary ZAPDOS's"
@@ -266,14 +266,14 @@ Mail13Part1Text:
 	line "Defeat the Grand Masters,"
 	line ""
 	text "<RAMNAME>!!!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	line "p.s."
 	line "3 more to go!"
 	done
 
 Mail14Part1Text:
-	text "It's me, Dr. Mason!"
+	text "It's me, jan Mason!"
 	line "2 more Grand Masters to go!"
 	line "Grand Master Jack uses"
 	line "the Legendary Articuno."
@@ -287,12 +287,12 @@ Mail14Part1Text:
 	line "weak against Lightning Pokémon!"
 	line "Go get 'em, <RAMNAME>!"
 	line "You're almost there!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	done
 
 Mail15Part1Text:
-	text "It's me, Dr. Mason!"
+	text "It's me, jan Mason!"
 	line "The final duel is here!"
 	line "I have some information on Rod,"
 	line "the leader of the Grand Masters."
@@ -308,8 +308,8 @@ Mail15Part1Text:
 	line "the Legendary Pokémon Cards!"
 	line "Go, <RAMNAME>!"
 	line "Be a part of the legend!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "tomo sona Mason"
+	line "      jan Mason  ;)"
 	line "p.s."
 	line "This is my final gift"
 	line "for you."
