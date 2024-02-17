@@ -1,41 +1,41 @@
 HandText:
-	text "Hand"
+	text "luka"
 	done
 
 CheckText:
-	text "Check"
+	text "lukin"
 	done
 
 AttackText:
-	text "Attack"
+	text "utala"
 	done
 
 PKMNPowerText:
-	text "PKMN Power"
+	text "wawa PKMN"
 	done
 
 DoneText:
-	text "Done"
+	text "pini"
 	done
 
 TypeText:
-	text "Type"
+	text "kule"
 	done
 
 RetreatText:
-	text "Retreat"
+	text "weka"
 	done
 
 WeaknessText:
-	text "Weakness"
+	text "ko tawa"
 	done
 
 ResistanceText:
-	text "Resistance"
+	text "kiwen tawa"
 	done
 
 PKMNPWRText:
-	text "PKMN PWR"
+	text "WAWA PMN"
 	done
 
 UnusedText000b: ; Unused (Pokemon Card)
