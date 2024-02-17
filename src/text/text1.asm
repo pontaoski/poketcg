@@ -355,11 +355,11 @@ PressStartWhenReadyText:
 	done
 
 YouPlayFirstText:
-	text "You play first."
+	text "sina open e musi."
 	done
 
 YouPlaySecondText:
-	text "You play second."
+	text "sina open ala."
 	done
 
 TransmissionErrorText:
@@ -407,27 +407,27 @@ FinishedTurnWithoutAttackingText:
 	done
 
 DuelistTurnText:
-	text "<RAMNAME>'s Turn."
+	text "tenpo <RAMNAME>"
 	done
 
 AttachedEnergyToPokemonText:
-	text "Attached <RAMTEXT>"
-	line "to <RAMTEXT>."
+	text "<RAMTEXT>"
+	line "li tawa <RAMTEXT>."
 	done
 
 PokemonEvolvedIntoPokemonText:
-	text "<RAMTEXT> evolved"
-	line "into <RAMTEXT>."
+	text "<RAMTEXT> li kama"
+	line "<RAMTEXT>."
 	done
 
 PlacedOnTheBenchText:
-	text "Placed <RAMTEXT>"
-	line "on the Bench."
+	text "<RAMTEXT>"
+	line "li kama supa."
 	done
 
 PlacedInTheArenaText:
 	text "<RAMTEXT>"
-	line "was placed in the Arena."
+	line "li kama insa utala."
 	done
 
 ShufflesTheDeckText:
@@ -440,84 +440,85 @@ ThisIsJustPracticeDoNotShuffleText:
 	done
 
 EachPlayerShuffleOpponentsDeckText:
-	text "Each player will"
-	line "shuffle the opponent's Deck."
+	text "SINA TU LI ANTE"
+	line "E POKI LIPU PI JAN ANTE."
 	done
 
 EachPlayerDraw7CardsText:
-	text "Each player will draw 7 cards."
+	text "SINA TU LI KAMA JO E LIPU 7."
 	done
 
 Drew7CardsText:
 	text "<RAMNAME>"
-	line "drew 7 cards."
+	line "LI KAMA JO E LIPU 7."
 	done
 
 DeckHasXCardsText:
-	text "<RAMNAME>'s deck has <RAMNUM> cards."
+	text "poki <RAMNAME> li jo e lipu <RAMNUM>."
 	done
 
 ChooseBasicPkmnToPlaceInArenaText:
-	text "Choose a Basic Pokémon"
-	line "to place in the Arena."
+	text "o pana e monsuta sin"
+	line "tawa insa utala."
 	done
 
 ThereAreNoBasicPokemonInHand:
-	text "There are no Basic Pokémon"
-	line "in <RAMNAME>'s hand."
+	text "monsuta sin li lon ala"
+	line "luka <RAMNAME>."
 	done
 
 NeitherPlayerHasBasicPkmnText:
-	text "Neither player has any Basic"
-	line "Pokémon in his or her hand."
+	text "monsuta sin li lon ala luka"
+	line "pi sina tu."
 	done
 
 ReturnCardsToDeckAndDrawAgainText:
-	text "Return the cards to the Deck"
-	line "and draw again."
+	text "o pana e lipu tawa poki o"
+	line "kama jo sin."
 	done
 
 ChooseUpTo5BasicPkmnToPlaceOnBenchText:
-	text "You may choose up to 5 Basic Pokémon"
-	line "to place on the Bench."
+	text "sina ken pana e monsuta sin 5"
+	line "tawa supa sina."
 	done
 
 PleaseChooseAnActivePokemonText:
-	text "Please choose an"
-	line "Active Pokémon."
+	text "o pana e monsuta"
+	line "tawa insa utala."
 	done
 
 ChooseYourBenchPokemonText:
-	text "Choose your"
-	line "Bench Pokémon."
+	text "o pana e monsuta"
+	line "tawa supa sina."
 	done
 
 YouDrewText:
-	text "You drew <RAMTEXT>."
+	text "sina kama jo e"
+	line "<RAMTEXT>."
 	done
 
 YouCannotSelectThisCardText:
-	text "You cannot select this card."
+	text "sina ken ala kepeken ni."
 	done
 
 PlacingThePrizesText:
-	text "Placing the Prizes..."
+	text "mi o pana e lipu"
+	line "tawa insa utala."
 	done
 
 PleasePlacePrizesText:
-	text "Please place"
-	line "<RAMNUM> Prizes."
+	text "o pana e lipu <RAMNUM>"
 	done
 
 IfHeadsDuelistPlaysFirstText:
-	text "If heads,"
+	text "mani li lawa la,"
 	line ""
-	text "<RAMTEXT> plays first."
+	text "<RAMTEXT> li open e musi."
 	done
 
 CoinTossToDecideWhoPlaysFirstText:
-	text "A coin will be tossed"
-	line "to decide who plays first."
+	text "o kon e mani. ona li"
+	line "lawa e open musi."
 	done
 
 DecisionText:
@@ -587,18 +588,18 @@ UnableToUsePkmnPowerDueToToxicGasText:
 	done
 
 PlayCheck1Text:
-	text "  Play"
-	line "  Check"
+	text "  KEPEKEN"
+	line "  LUKIN"
 	done
 
 PlayCheck2Text:
-	text "  Play"
-	line "  Check"
+	text "  KEPEKEN"
+	line "  LUKIN"
 	done
 
 SelectCheckText:
-	text "  Select"
-	line "  Check"
+	text "  KEPEKEN"
+	line "  LUKIN"
 	done
 
 UnusedText0087: ; Unused
@@ -606,7 +607,7 @@ UnusedText0087: ; Unused
 	done
 
 DuelistIsThinkingText:
-	text "<RAMNAME> is thinking."
+	text "<RAMNAME> LI ISIPIN."
 	done
 
 ClearOpponentNameText:
@@ -771,37 +772,37 @@ YourDataWasDestroyedSomehowText:
 	done
 
 NoCardsInHandText:
-	text "No cards in hand."
+	text "lipu ala li lon luka."
 	done
 
 TheDiscardPileHasNoCardsText:
-	text "The Discard Pile has no cards."
+	text "poki weka ni li jo ala e lipu."
 	done
 
 PlayerDiscardPileText:
-	text "Player's Discard Pile"
+	text "poki weka"
 	done
 
 DuelistHandText:
-	text "<RAMNAME>'s Hand"
+	text "luka <RAMNAME>"
 	done
 
 DuelistPlayAreaText:
-	text "<RAMNAME>'s Play Area"
+	text "poka <RAMNAME>"
 	done
 
 DuelistDeckText:
-	text "<RAMNAME>'s Deck"
+	text "poki <RAMNAME>"
 	done
 
 PleaseSelectHandText:
-	text "Please select"
-	line "Hand."
+	text "o pana e"
+	line "luka."
 	done
 
 PleaseSelectCardText:
-	text "Please select"
-	line "Card."
+	text "o pana e"
+	line "lipu."
 	done
 
 NoPokemonWithDamageCountersText:
@@ -895,24 +896,24 @@ NoEnergyCardsAttachedToPokemonInOppPlayAreaText:
 	done
 
 EnergyCardsRequiredToRetreatText:
-	text "<RAMNUM> Energy cards"
-	line "are required to Retreat."
+	text "lipu wawa <RAMNUM>"
+	line "li wile tawa weka."
 	done
 
 NotEnoughEnergyCardsText:
-	text "Not enough Energy cards."
+	text "mute pi lipu wawa li lili ike."
 	done
 
 NotEnoughFireEnergyText:
-	text "Not enough Fire Energy."
+	text "mute pi wawa seli li lili ike."
 	done
 
 NotEnoughPsychicEnergyText:
-	text "Not enough Psychic Energy."
+	text "mute pi wawa sona li lili ike."
 	done
 
 NotEnoughWaterEnergyText:
-	text "Not enough Water Energy."
+	text "mute pi wawa telo li lili ike."
 	done
 
 ThereAreNoTrainerCardsInDiscardPileText:

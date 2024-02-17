@@ -951,47 +951,47 @@ OverworldMapIshiharasHouseText:
 	done
 
 OverworldMapFightingClubText:
-	text "   Fighting Club    "
+	text "     TOMO UTALA    "
 	done
 
 OverworldMapRockClubText:
-	text "     Rock Club      "
+	text "     TOMO KIWEN     "
 	done
 
 OverworldMapWaterClubText:
-	text "     Water Club     "
+	text "     TOMO TELO     "
 	done
 
 OverworldMapLightningClubText:
-	text "   Lightning Club   "
+	text "   TOMO WAWA   "
 	done
 
 OverworldMapGrassClubText:
-	text "     Grass Club     "
+	text "     TOMO KASI     "
 	done
 
 OverworldMapPsychicClubText:
-	text "    Psychic Club    "
+	text "    TOMO SONA    "
 	done
 
 OverworldMapScienceClubText:
-	text "    Science Club    "
+	text "     TOMO JAKI     "
 	done
 
 OverworldMapFireClubText:
-	text "     Fire Club      "
+	text "     TOMO SELI      "
 	done
 
 OverworldMapChallengeHallText:
-	text "   Challenge Hall   "
+	text "     POKI UTALA     "
 	done
 
 OverworldMapPokemonDomeText:
-	text "    Pokémon Dome    "
+	text "      TOMO SULI    "
 	done
 
 OverworldMapMysteryHouseText:
-	text "     ??'s House     "
+	text "     tomo ????     "
 	done
 
 MasonLaboratoryMapName:
@@ -999,47 +999,47 @@ MasonLaboratoryMapName:
 	done
 
 MrIshiharasHouseMapName:
-	text "Mr Ishihara's House"
+	text "tomo pi jan Isijawa"
 	done
 
 FightingClubMapName:
-	text "Fighting"
+	text "utala"
 	done
 
 RockClubMapName:
-	text "Rock"
+	text "kiwen"
 	done
 
 WaterClubMapName:
-	text "Water"
+	text "telo"
 	done
 
 LightningClubMapName:
-	text "Lightning"
+	text "wawa"
 	done
 
 GrassClubMapName:
-	text "Grass"
+	text "kasi"
 	done
 
 PsychicClubMapName:
-	text "Psychic"
+	text "sona"
 	done
 
 ScienceClubMapName:
-	text "Science"
+	text "jaki"
 	done
 
 FireClubMapName:
-	text "Fire"
+	text "seli"
 	done
 
 ChallengeHallMapName:
-	text "Challenge Hall"
+	text "poki utala"
 	done
 
 PokemonDomeMapName:
-	text "Pokémon Dome"
+	text "tomo suli"
 	done
 
 UnusedText033c: ; Unused
@@ -1047,12 +1047,12 @@ UnusedText033c: ; Unused
 	done
 
 PauseMenuOptionsText:
-	text "Status"
-	line "Diary"
-	line "Deck"
-	line "Card"
-	line "Config"
-	line "Exit"
+	text "SINA"
+	line "AWEN"
+	line "POKI"
+	line "LIPU"
+	line "ANTE ILO"
+	line "WEKA"
 	done
 
 DebugPauseMenuOptionsText:
@@ -1066,65 +1066,65 @@ DebugPauseMenuOptionsText:
 	done
 
 PlayerStatusNameText:
-	text "Name <RAMNAME>"
+	text "NIMI <RAMNAME>"
 	done
 
 PlayerStatusAlbumText:
-	text "Album           "
+	text "LIPU ESUN       "
 	half2full
 	textfw "/"
 	done
 
 PlayerStatusPlayTimeText:
-	text "Play time         "
+	text "TENPO MUSI        "
 	half2full
 	textfw ":"
 	done
 
 PlayerDiaryTitleText:
-	text "<RAMNAME>'s diary"
+	text "lipu awen <RAMNAME>"
 	done
 
 PlayerDiaryMedalsWonText:
-	text "Master Medals Won "
+	text "KIWEN UMESU "
 	done
 
 PlayerDiarySaveQuestionText:
-	text "Would you like to keep a diary?"
+	text "SINA WILE ALA WILE AWEN E MUSI?"
 	done
 
 PlayerDiarySaveConfirmText:
 	text "<RAMNAME>"
-	line "wrote in the diary."
+	line "LI AWEN E MUSI."
 	done
 
 PlayerDiarySaveCancelText:
-	text "Nothing was recorded "
-	line "in the diary."
+	text "<RAMNAME>"
+	line "LI AWEN ALA E MUSI."
 	done
 
 PlayerStatusMedalsTitleText:
-	text "Master Medals"
+	text "KIWEN UMESU"
 	done
 
 ConfigMenuTitleText:
-	text "           Change Settings"
+	text "                  ANTE ILO"
 	done
 
 ConfigMenuMessageSpeedText:
-	text "Message Speed"
+	text "TENPO TOKI"
 	line ""
-	line "   Slow   1   2   3   4   5   Fast"
+	line "   MUTE   1   2   3   4   5   LILI"
 	done
 
 ConfigMenuDuelAnimationText:
-	text "Duel Animation"
+	text "TAWA UTALA"
 	line ""
-	line "  Show All    Skip Some       None"
+	line "  TAWA ALE    TAWA LILI       ALA"
 	done
 
 ConfigMenuExitText:
-	text "   Exit Settings"
+	text "   O WEKA"
 	done
 
 UnusedText034c: ; Unused
@@ -1274,34 +1274,34 @@ NewGameText:
 	done
 
 CardPopContinueDiaryNewGameText:
-	text "CARD POP!"
-	line "CONTINUE FROM DIARY"
-	line "NEW GAME"
+	text "KAMA LIPU!"
+	line "O OPEN E IJO AWEN"
+	line "MUSI SIN"
 	done
 
 CardPopContinueDiaryNewGameContinueDuelText:
-	text "CARD POP!"
-	line "CONTINUE FROM DIARY"
-	line "New Game"
-	line "CONTINUE DUEL"
+	text "KAMA LIPU!"
+	line "O OPEN E IJO AWEN"
+	line "MUSI SIN"
+	line "O OPEN E UTALA AWEN"
 	done
 
 WhenYouCardPopWithFriendText:
-	text "When you CARD POP! with a friend,"
-	line "you will each receive a new card!"
+	text "SINA TU LI KAMA LIPU LA,"
+	line "SINA TU LI KAMA JO E LIPU SIN!"
 	done
 
 ContinueFromDiarySummaryText:
 	text "  <RAMNAME>  <RAMTEXT>"
-	line "      Master Medals Won "
+	line "      KIWEN UMESU "
 	half2full
 	textfw "<RAMNUM>"
 	text ""
-	line "      Album           "
+	line "      LIPU ESUN       "
 	half2full
 	textfw "/"
 	text ""
-	line "      Play time         "
+	line "      TENPO MUSI        "
 	half2full
 	textfw ":"
 	text ""
@@ -1313,9 +1313,9 @@ StartANewGameText:
 	done
 
 TheGameWillContinueFromThePointInTheDuelText:
-	text "The Game will continue from "
-	line "the point in the duel at"
-	line "which the power was turned OFF."
+	text "musi li kama open sin lon "
+	line "tenpo utala. tenpo li awen"
+	line "tan pini ilo."
 	done
 
 SavedDataAlreadyExistsText:

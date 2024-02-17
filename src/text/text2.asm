@@ -174,7 +174,7 @@ Draw1CardFromTheDeckText:
 	done
 
 DrawCardsFromTheDeckText:
-	text "Draw <RAMNUM> card(s) from the Deck."
+	text "o kama jo e lipu <RAMNUM> tan poki."
 	done
 
 CannotDrawCardBecauseNoCardsInDeckText:
@@ -1716,23 +1716,23 @@ UnusedText0246: ; Unused
 	done
 
 DuelistsPlayAreaText:
-	text "<RAMNAME>'s Play Area"
+	text "poka <RAMNAME>"
 	done
 
 YourPlayAreaText:
-	text "Your Play Area"
+	text "poka sina"
 	done
 
 OppPlayAreaText:
-	text "Opp. Play Area"
+	text "poka ante"
 	done
 
 InPlayAreaText:
-	text "In Play Area"
+	text "utala musi"
 	done
 
 GlossaryText:
-	text "Glossary"
+	text "sona nimi"
 	done
 
 WhichCardWouldYouLikeToSeeText:
