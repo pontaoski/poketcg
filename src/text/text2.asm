@@ -815,12 +815,12 @@ ReceivedCardText:
 	done
 
 ReceivedPromotionalCardText:
-	text "<RAMNAME> received a Promotional"
-	line "card <RAMTEXT>!"
+	text "<RAMNAME> li kama jo e lipu ante"
+	line "<RAMTEXT>!"
 	done
 
 ReceivedLegendaryCardText:
-	text "<RAMNAME> received the Legendary"
+	text "<RAMNAME> li kama jo e lipu wawa"
 	line "card <RAMTEXT>!"
 	done
 

@@ -66,21 +66,21 @@ Clerk12ChallengeCup2ActiveText:
 	done
 
 Clerk12ChallengeCup3ActiveText:
-	text "The Challenge Cup is now "
-	line "underway!"
-	line "Defeat 3 opponents to win a"
-	line "fabulous prize!"
+	text "utala umesu li"
+	line "kama lon a!"
+	line "sina utala sewi tawa jan 3 la"
+	line "sina kama jo e ijo pona!"
 	done
 
 Clerk12ChallengeCupInviteText:
-	text "The game will be a 1-match "
-	line "duel with 4 prizes! We are "
-	line "now accepting entrants here."
-	line "Wouldn't you like to enter?"
+	text "musi li jo e tenpo 1 "
+	line "e lipu insa 4! "
+	line "jan li ken kama tawa ni."
+	line "sina wile ala wile utala?"
 	done
 
 Clerk12WillYouEnterText:
-	text "Will you enter?"
+	text "sina wile ala wile utala?"
 	done
 
 Clerk12DeclinedText:
@@ -89,27 +89,27 @@ Clerk12DeclinedText:
 	done
 
 Clerk12AcceptedText:
-	text "Then please proceed to the stage!"
+	text "o kama tawa supa utala!"
 	done
 
 Clerk12ChallengeCupIntroText:
-	text "Well, things are heating up"
-	line "here at the Challenge Cup!"
+	text "a, ijo suli li kama lon"
+	line "utala umesu ni a!"
 	done
 
 Clerk12ChallengeCupContenderText:
-	text "Presently, <RAMNAME> is still"
-	line "a contender!"
+	text "tenpo ni la, <RAMNAME> li"
+	line "awen utala!"
 	done
 
 Clerk12ChallengeCupRound1ChallengerText:
-	text "<RAMNAME> is the new challenger!"
+	text "<RAMNAME> li utala sin!"
 	done
 
 Clerk12ChallengeCupRound1DuelStartText:
-	text "There will be 4 Prizes!"
-	line "OK!!"
-	line "Let the duel begin!"
+	text "lipu insa 4 li lon!"
+	line "oke!!"
+	line "utala o open a!"
 	done
 
 Clerk12ChallengeCupRound2PlayerLostText:
@@ -154,37 +154,37 @@ RonaldChallengeCup1PlayerLostText:
 	done
 
 Clerk12ChallengeCupRound1PlayerWonText:
-	text "Congratulations!"
-	line "The Winner is <RAMNAME>!"
+	text "pona suli a!"
+	line "<RAMNAME> li awen pona!"
 	line ""
-	text "<RAMNAME> has defeated"
-	line "1 opponent!!!"
+	text "<RAMNAME> li utala e"
+	line "jan wan!!!"
 	done
 
 Clerk12ChallengeCupRound2PlayerWonText:
-	text "Way to go, <RAMNAME>!"
-	line "That's 2 wins!!!"
-	line "One more opponent to go before"
-	line "winning the Challenge Cup!"
+	text "pona a, <RAMNAME>!"
+	line "ni li utala 2 a!!!"
+	line "sina utala e jan wan taso la"
+	line "sina umesu tawa utala umesu!"
 	done
 
 Clerk12ChallengeCupPlayerWonContinuedText:
-	text "Most unfortunate, <RAMTEXT>."
-	line "Have a safe trip home!"
+	text "pakala a, <RAMTEXT>."
+	line "o tawa pona!"
 	done
 
 Clerk12ChallengeCupNextChallengerText:
-	text "Let's meet our next challenger!"
+	text "mi o lukin e jan kama!"
 	done
 
 Clerk12ChallengeCupRound2ChallengerText:
-	text "Our new challenger is..."
+	text "ona li..."
 	line ""
 	text "<RAMTEXT>!"
 	done
 
 Clerk12ChallengeCupRound3ChallengerText:
-	text "The third opponent is"
+	text "jan utala tu wan li"
 	line ""
 	text "<RAMTEXT>!"
 	done
@@ -204,31 +204,31 @@ RonaldChallengeCup1BeforeDuelText:
 	done
 
 Clerk12ChallengeCupRound3DuelReadyText:
-	text "With that, let the third match "
-	line "begin!"
+	text "ni la, musi tu wan "
+	line "o open a!"
 	done
 
 Clerk12AreYourDecksReadyText:
-	text "Are your decks ready?"
+	text "poki sina li ken ala ken utala?"
 	done
 
 Clerk12PrepareYourDeckText:
-	text "Prepare your deck?"
+	text "sina wile ala wile ante e poki?"
 	done
 
 Clerk12ChallengeCupRound2DuelStartText:
-	text "Well then, <RAMNAME>!"
-	line "Let the second match begin!"
+	text "<RAMNAME> o!"
+	line "utala nanpa tu o open a!"
 	done
 
 Clerk12ChallengeCupRound3DuelStartText:
-	text "Well, <RAMNAME>, let the third,"
-	line "and final, match begin!"
+	text "<RAMNAME> o! utala pini"
+	line "nanpa tu wan o open a!"
 	done
 
 Clerk12MakeYourPreparationsText:
-	text "Now then, please make "
-	line "your preparations!"
+	text "a, o pali e "
+	line "ijo wile sina!"
 	done
 
 Clerk12ChallengeCupRound3PlayerWon1Text:
@@ -237,9 +237,9 @@ Clerk12ChallengeCupRound3PlayerWon1Text:
 	done
 
 Clerk12ChallengeCupRound3PlayerWon2Text:
-	text "Most unfortunate, <RAMTEXT>."
-	line "Do try again in the next"
-	line "Challenge Cup."
+	text "pakala a, <RAMTEXT>."
+	line "o musi sin lon"
+	line "utala umesu kama."
 	done
 
 RonaldChallengeCup1PlayerWon1Text:

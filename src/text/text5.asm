@@ -871,10 +871,10 @@ Clerk9ChallengeCupLostText:
 	done
 
 Clerk9ChallengeCupWonText:
-	text "Congratulations, <RAMNAME>!"
-	line "You received a card!"
-	line "Please join us for the next "
-	line "Challenge Cup, too."
+	text "pona a, <RAMNAME>!"
+	line "sina kama jo e lipu!"
+	line "o kama kin tawa "
+	line "utala musi sin."
 	done
 
 Pappy3Text:
